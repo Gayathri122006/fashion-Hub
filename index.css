@@ -104,7 +104,7 @@ linear-gradient(
 rgba(0,0,0,.4),
 rgba(0,0,0,.4)
 ),
-url("main.jpg") no-repeat
+url("./asets/main.jpg") no-repeat
 center/cover;
 display:flex;
 align-items:center;
